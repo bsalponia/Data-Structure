@@ -1,2 +1,2 @@
-# ds-java
-Implementation of various data structures
+# Data-Structures
+Implementation of various data structures in java.
