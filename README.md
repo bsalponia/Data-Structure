@@ -1,5 +1,5 @@
 # Data-Structures
-Implementation of various data structures in java.
+Learning data structures and implemented in java.
 - List(Singly, Doubly & Circular)
 - Stack(Array & List)
 - Queue(Array & List)
