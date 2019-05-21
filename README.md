@@ -1,4 +1,3 @@
-# Data-Structures
 Learning data structures and implemented in java.
 - List(Singly, Doubly & Circular)
 - Stack(Array & List)
